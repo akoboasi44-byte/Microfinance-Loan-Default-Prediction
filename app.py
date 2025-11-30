@@ -117,7 +117,7 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("""
-    **Created by:** Your Name  
+    **Created by:** Group 2  
     **Course:** Machine Learning  
     **Institution:** Pentecost University
     """)
