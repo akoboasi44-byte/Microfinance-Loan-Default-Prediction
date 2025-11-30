@@ -30,3 +30,5 @@ _Note: These visualizations should be saved to a dedicated `plots/` directory wi
 
 ## Recommendations
 To improve the model's predictive power for defaulting borrowers, techniques to address class imbalance such as oversampling (e.g., SMOTE), undersampling, or using class weights should be explored and implemented. Micro-finance institutions should leverage the identified high-impact features like `installment`, `log.annual.inc`, and `revol.bal` during loan application assessment to better evaluate repayment capacity and financial stability, potentially leading to adjusted loan terms or targeted financial literacy support. Further model tuning and exploration of other algorithms could also enhance predictive performance for the minority class.
+
+# venv310\Scripts\activate
